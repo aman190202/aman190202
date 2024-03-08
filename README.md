@@ -1,4 +1,7 @@
 ### Aman Agarwal
+
+ <img style="width: 100px; border:30px ;float: left;" src="images/aman.gif">
+
 I am Aman Agarwal, an undergraduate at SRM University and a syndicate at @NextTechLab
 
 A Deep Learning Researcher with an active interest in Neural Fields, I can be often found scratching my head trying to implement papers from the ground up. 
