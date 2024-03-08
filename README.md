@@ -1,6 +1,6 @@
 ### Aman Agarwal
 
- <img style="width: 100px; border:30px ;float: left;" src="images/aman.gif">
+ <img style="width: 100px; border:30px ;float: left;" src="https://github.com/aman190202/aman190202.github.io/blob/master/images/aman.gif">
 
 I am Aman Agarwal, an undergraduate at SRM University and a syndicate at @NextTechLab
 
