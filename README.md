@@ -1,5 +1,7 @@
 ### Aman Agarwal 
 
-CS Graduate at Brown University ; 3D Reconstruction & Novel View Synthesis
+CS Graduate at Brown University <br>
+3D Vision & Novel View Synthesis
 
-Find out more <a href="https://aman190202.github.io">here</a>! 
+Previously led a student run research lab.
+More @ <a href="https://aman190202.github.io">aman190202.github.io</a>
