@@ -1,7 +1,6 @@
 ### Aman Agarwal 
 
-CS Graduate at Brown University <br>
-3D Vision & Novel View Synthesis
-
-Previously led a student run research lab.
+Visual Computing Graduate at Brown University <br>
+Building @ <a href="https://invisionlabs.ai">invision labs</a><br>
+Led @ <a href="https://nexttechlab.in">NextTech</a><br>
 More @ <a href="https://aman190202.github.io">aman190202.github.io</a>
