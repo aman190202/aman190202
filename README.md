@@ -1,3 +1,3 @@
 
 
-<a href="https://aman3d.com">aman3d.com</a> ; 3D Vision
+<i><a href="https://aman3d.com">https://aman3d.com</a></i>
